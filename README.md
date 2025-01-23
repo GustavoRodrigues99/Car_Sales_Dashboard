@@ -1,12 +1,18 @@
 # Car Sales Dashboard
+![Dashboard](https://github.com/GustavoRodrigues99/Car_Sales_Dashboard/blob/main/Images/Captura%20de%20tela%202025-01-23%20140058.png?raw=true)
 
 ## Conteúdo
+- [Descrição do Projeto](##Descrição-do-Projeto)
+- [Tecnologias Utilizadas](##Tecnologias-Utilizadas)
+- [KPI's](##KPI's)
+- [Gráficos](##Gráficos)
+- [Como Visualizar](##Como-Visualizar)
 
 ## Descrição do Projeto
 
 O objetivo deste projeto é desenvolver um Dashboard Dinâmico e Interativo de Vendas de Carros utilizando Power BI. O dashboard apresentará KPIs essenciais relacionados às vendas de veículos, proporcionando uma visão clara do desempenho ao longo do tempo. Com isso, será possível analisar tendências, identificar oportunidades e tomar decisões estratégicas baseadas em dados. Todos os dados utilizados neste projeto foram simulados, e são de uma empresa imaginária.
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Excel
 - PowerBI
 
@@ -46,7 +52,7 @@ O dashboard fornece insights sobre os principais indicadores de desempenho (KPIs
 
 **6. Tabela Detalhada com Informações de Todas as Vendas de Carros:** Uma tabela detalhada contendo todas as informações relevantes para cada venda de veículo.
 
-# Como Visualizar
+## Como Visualizar
 
-## Pré-requisitos
-Certifique-se de ter o PowerBI instalado. Para instalar acesso o link
+Acesse o link:
+
